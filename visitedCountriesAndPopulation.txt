@@ -1,0 +1,67 @@
+China	1368050000
+United States	320341000
+Brazil	203841000
+Egypt	87965900
+Germany	80767000
+France	66092000
+Thailand	64871000
+United Kingdom	64105654
+Italy	60782897
+Spain	46464053
+Poland	38496000
+Canada	35675834
+Morocco	33516100
+Malaysia	30483800
+Australia	23735500
+Taiwan	23433753
+Romania	19942642
+Netherlands	16888500
+Belgium	11233192
+Greece	10992589
+Czech Republic	10521600
+Portugal	10477800
+Hungary	9879000
+Sweden	9743087
+United Arab Emirates	9577000
+Austria	8572895
+Israel	8296000
+Switzerland	8211700
+Bulgaria	7245677
+Hong Kong (China)	7234800
+Serbia	7146759
+Denmark	5655750
+Finland	5475526
+Singapore	5469700
+Slovakia	5421034
+Norway	5156450
+Ireland	4609600
+New Zealand	4559890
+Palestine	4550368
+Croatia	4267558
+Bosnia and Herzegovina	3791622
+Lithuania	2921920
+Slovenia	2065549
+Latvia	1988400
+Kosovo	1816891
+Bahrain	1316500
+Estonia	1312252
+Mauritius	1261208
+Cyprus	858000
+Reunion (France)	840974
+Macau (China)	631000
+Montenegro	620029
+Luxembourg	549700
+Malta	416055
+Iceland	328170
+Northern Cyprus	294906
+French Polynesia (France)	268270
+Jersey (UK)	99000
+Andorra	76949
+Guernsey (UK)	63085
+Greenland (Denmark)	56295
+Liechtenstein	37132
+Monaco	36950
+San Marino	32777
+Gibraltar (UK)	30001
+Cook Islands (New Zealand)	14974
+Vatican City	839
